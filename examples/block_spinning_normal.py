@@ -1,4 +1,3 @@
-# Generate greeting
 from block_spinning import block_spinning
 
 article = r"""
@@ -26,6 +25,5 @@ def BlockSpinningNormal():
     return block_spinning.spin(article)
 
 
-# Only print password if it is run directly
 if __name__ == "__main__":
     print(BlockSpinningNormal())

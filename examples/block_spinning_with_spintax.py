@@ -47,12 +47,10 @@ The {much better|better|far better} readability and {structure|format|arrangemen
 """
 
 
-# Function to generate password
 def BlockSpinningWithSpintax():
     example = block_spinning.spin(blockspin_example)
     return spintax.spin(example)
 
 
-# Only print password if it is run directly
 if __name__ == "__main__":
     print(BlockSpinningWithSpintax())

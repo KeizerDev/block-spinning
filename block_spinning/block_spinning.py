@@ -41,10 +41,6 @@ def _parse_paragraphs(string):
     return [match[0] for match in matches]
 
 
-def _shuffle(array):
-    return random.shuffle(array)
-
-
 def _random_sentences(sentences):
     return random.choice(sentences)
 
