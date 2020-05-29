@@ -72,7 +72,7 @@ def spin(string, lock_first=False, limit_of_blocks=None):
         blocks = blocks[:limit_of_blocks]
 
     result = ""
-    print(blocks)
+
     for block in blocks:
         if result != "":
             result += "\n" * 2
