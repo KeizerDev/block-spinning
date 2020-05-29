@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='block_spinning',
-      version='1.0.0',
+      version='1.0.1',
       description='A Python module for block spinning',
       long_description='A Python module for block spinning.',
       keywords=['block spin', 'block spin', 'block spinning', 'spinning', 'text spin'],
