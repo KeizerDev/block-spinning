@@ -41,7 +41,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-block_spinning.egg-info/PKG-INFO
+block_spinning.egg-info/*
 *.txt
 block_spinning/__pycache__/__init__.cpython-34.pyc
 *.pyc
