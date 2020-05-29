@@ -1,0 +1,59 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+block_spinning.egg-info/PKG-INFO
+*.txt
+block_spinning/__pycache__/__init__.cpython-34.pyc
+*.pyc
+dist/block_spinning-0.1-py3.4.egg
+spintax.egg-info/not-zip-safe
+build/lib/block_spinning/__init__.py
+*.pypirc
+dist/block_spinning-0.1.zip
+dist/block_spinning-0.1-py3-none-any.whl
+
+# OTHER
+
+.idea*
+dist/*
+build/*
